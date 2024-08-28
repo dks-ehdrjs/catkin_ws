@@ -1,0 +1,8 @@
+prefix=/home/adg/catkin_ws/devel
+
+Name: imu_mag_filtered_logging
+Description: Description of imu_mag_filtered_logging
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

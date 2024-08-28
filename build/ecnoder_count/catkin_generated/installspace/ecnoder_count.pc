@@ -1,0 +1,8 @@
+prefix=/home/adg/catkin_ws/install
+
+Name: ecnoder_count
+Description: Description of ecnoder_count
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

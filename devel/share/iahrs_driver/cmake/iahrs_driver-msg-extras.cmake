@@ -1,0 +1,2 @@
+set(iahrs_driver_MESSAGE_FILES "")
+set(iahrs_driver_SERVICE_FILES "/home/adg/catkin_ws/src/iahrs_driver-master/srv/all_data_reset.srv;/home/adg/catkin_ws/src/iahrs_driver-master/srv/euler_angle_init.srv;/home/adg/catkin_ws/src/iahrs_driver-master/srv/euler_angle_reset.srv;/home/adg/catkin_ws/src/iahrs_driver-master/srv/pose_velocity_reset.srv;/home/adg/catkin_ws/src/iahrs_driver-master/srv/reboot_sensor.srv")

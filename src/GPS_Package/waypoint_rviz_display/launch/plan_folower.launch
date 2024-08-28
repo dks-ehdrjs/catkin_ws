@@ -1,0 +1,8 @@
+<launch>y
+    <!-- 첫 번째 노드: 스탠리 컨트롤러 -->
+    <node name="stanley_controller" pkg="waypoint_rviz_display" type="stanley_controller" output="screen" />
+
+    <!-- 두 번째 노드: 또 다른 노드 -->
+    <node name="waypoint_planner_node" pkg="waypoint_rviz_display" type="waypoint_planner_node" output="screen" />
+</launch>
+

@@ -1,0 +1,8 @@
+prefix=/home/adg/catkin_ws/devel
+
+Name: imu_moving_ave_filter_node
+Description: Description of imu_moving_ave_filter_node
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

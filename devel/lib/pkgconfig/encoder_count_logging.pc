@@ -1,0 +1,8 @@
+prefix=/home/adg/catkin_ws/devel
+
+Name: encoder_count_logging
+Description: Description of encoder_count_logging
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

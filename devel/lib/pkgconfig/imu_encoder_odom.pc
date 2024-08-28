@@ -1,0 +1,8 @@
+prefix=/home/adg/catkin_ws/devel
+
+Name: imu_encoder_odom
+Description: Description of imu_encoder_odom
+Version: 0.0.0
+Cflags: -I/home/adg/catkin_ws/src/imu_encoder_odom/include
+Libs: -L${prefix}/lib -limu_encoder_odom
+Requires: roscpp std_msgs sensor_msgs nav_msgs geometry_msgs tf tf2 tf2_geometry_msgs

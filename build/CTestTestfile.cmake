@@ -1,0 +1,37 @@
+# CMake generated Testfile for 
+# Source directory: /home/adg/catkin_ws/src
+# Build directory: /home/adg/catkin_ws/build
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+subdirs("gtest")
+subdirs("ublox_f9p/ntrip_ros")
+subdirs("ublox_f9p/rtcm_msgs")
+subdirs("ublox_f9p/ublox")
+subdirs("ecnoder_count")
+subdirs("encoder_count_logging")
+subdirs("GPS_Package/gps_datum_pub")
+subdirs("GPS_Package/gps_package_launch")
+subdirs("GPS_Package/handsfree_ros_imu_a9")
+subdirs("HW_my_pid_controller/my_pid_controller")
+subdirs("hard_iron_calibration")
+subdirs("imu_calibration")
+subdirs("imu_logging")
+subdirs("imu_mag_filtered_logging")
+subdirs("imu_mag_logging")
+subdirs("lane_detect")
+subdirs("north_calculate_mag")
+subdirs("ROS_Pure_Pursuit")
+subdirs("GPS_Package/gps_msgs_package")
+subdirs("iahrs_driver-master")
+subdirs("imu_moving_ave_filter_node")
+subdirs("GPS_Package/mgi2000_gps_msgs_package")
+subdirs("stanley_control (1)/stanley_control")
+subdirs("GPS_Package/geonav_transform")
+subdirs("GPS_Package/two_gps_h_angle")
+subdirs("ublox_f9p/ublox_serialization")
+subdirs("ublox_f9p/ublox_msgs")
+subdirs("ublox_f9p/ublox_gps")
+subdirs("imu_encoder_gps_odom")
+subdirs("GPS_Package/gps_odom")
+subdirs("GPS_Package/waypoint_rviz_display")

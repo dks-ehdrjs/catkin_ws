@@ -1,0 +1,8 @@
+prefix=/home/adg/catkin_ws/install
+
+Name: north_calculate_mag
+Description: Description of north_calculate_mag
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
